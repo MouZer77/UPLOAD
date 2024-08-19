@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7u3sq4GpFjg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\idfap\\Documents\\Coding\\GitHub\\Software1-Knowledge-Check-1\\KnowledgeCheck1_Calculator\\KnowledgeCheck1_Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\idfap\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\idfap\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\idfap\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\idfap\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
